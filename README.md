@@ -2,7 +2,7 @@
 
 ## Author: [nefari0uss](https://www.github.com/nefari0uss)
 
-[!](https://img.shields.io/badge/language-C-orange.svg)
+[](https://img.shields.io/badge/language-C-orange.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
  
 ## Summary
