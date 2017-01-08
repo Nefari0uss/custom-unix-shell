@@ -11,8 +11,8 @@ The parent process will then wait for the child to finish execution before conti
 created using the `fork()` system call. The command is executed using the `exec()` from a system call.
 
 ## Instructions
-* Compile: gcc shell.c -o shell -Wall 
-* Run: ./shell 
+* Run `$ ./shell`.
+* `exit` or `quit` will end the program. 
 * Running the shell a second time will allow it to read from the history file (if one exists).
 * Enter commands to run.
 * `h` will display the history.

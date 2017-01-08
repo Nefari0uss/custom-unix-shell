@@ -8,8 +8,7 @@
 /** Simple UNIX Shell
  *  @author Nefari0uss
  *  @license MIT
- *  To compile: gcc -Wall shellC.c -o shellC
- *  To run: ./shellC
+ *
  *  To quit, enter quit or exit.
  *  `r` will run a history command.
  *  `h` will show the history.
