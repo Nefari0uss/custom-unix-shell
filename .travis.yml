@@ -1,0 +1,13 @@
+notifications:
+  email: false
+language: c
+before_install:
+  sudo apt-get update
+install:
+  sudo apt-get install gcc
+script:
+    make
+before_deploy:
+    test $TRAVIS_TEST_RESULT = 0
+after_deploy:
+    make clean
