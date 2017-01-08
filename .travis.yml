@@ -1,10 +1,6 @@
 notifications:
   email: false
 language: c
-before_install:
-  sudo apt-get update
-install:
-  sudo apt-get install gcc
 script:
     make
 before_deploy:
